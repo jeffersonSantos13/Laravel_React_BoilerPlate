@@ -50,11 +50,10 @@ $ cd Laravel_React_BoilerPlate
 $ yarn install or npm install
 $ composer update
 
-# Execute a aplicação em modo de desenvolvimento
-$ php artisan serve
 ```
 
 ### Configurar as variáveis do Banco de Dados
+Editar o arquivo .env
 
 ```sh
 DB_CONNECTION=mysql
@@ -72,9 +71,9 @@ Para criar as tabelas do projeto execute o comando:
 php artisan migrate
 ```
 
-### A aplicação será aberta na porta:8000
+# Execute a aplicação em modo de desenvolvimento
+A aplicação será aberta: http://127.0.0.1:8000
 
-```sh
-http://127.0.0.1:8000
+```bash
+$ php artisan serve
 ```
-
