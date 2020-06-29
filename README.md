@@ -67,6 +67,13 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+### Migration
+Para criar as tabelas do projeto execute o comando:
+
+```bash
+php artisan migrate
+```
+
 ### A aplicação será aberta na porta:8000
 
 ```sh
