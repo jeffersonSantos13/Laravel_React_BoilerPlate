@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Laravel" title="Laravel" src="assets/react_laravel_logo.png" width="250" />
+  <img alt="Laravel" title="Laravel" src="assets/react_laravel_logo.png" width="550" />
 </h1>
 
 <p align="center">
